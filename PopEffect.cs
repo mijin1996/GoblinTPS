@@ -1,8 +1,4 @@
 using UnityEngine;
-using BlackMassSoftware.FloatingTextEngine.Lite;
-using BlackMassSoftware.FloatingTextEngine.Lite.Behaviors;
-
-using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
 
